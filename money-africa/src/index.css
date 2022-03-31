@@ -1,0 +1,5 @@
+@import url("http://fonts.cdnfonts.com/css/helvetica-neue-9");
+@font-face {
+  font-family: "Gascogne";
+  src: local("Gascogne"), url("../src/components/fonts/Gascogne-DemiBold.ttf") format("truetype");
+}
